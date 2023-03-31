@@ -11,11 +11,9 @@ CMakeFiles\opengl_learning.dir\Shader.cpp.obj: "C:\Program Files (x86)\Windows K
 
 
 CMakeFiles\opengl_learning.dir\main.cpp.obj: C:\Users\daoge_cmd\CLionProjects\opengl-learning\main.cpp
-CMakeFiles\opengl_learning.dir\main.cpp.obj: C:\Users\daoge_cmd\CLionProjects\opengl-learning\include\GL\glext.h
 CMakeFiles\opengl_learning.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_math.h"
 CMakeFiles\opengl_learning.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\yvals_core.h"
-CMakeFiles\opengl_learning.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\intrin0.inl.h"
-CMakeFiles\opengl_learning.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_math_defines.h"
+CMakeFiles\opengl_learning.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xiosbase"
 
 
 
@@ -31,16 +29,12 @@ C:\Users\daoge_cmd\CLionProjects\opengl-learning\Shader.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\system_error":
 
-C:\Users\daoge_cmd\CLionProjects\opengl-learning\include\GL\glext.h:
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\stdint.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\eh.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_math.h":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\intrin0.inl.h":
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\yvals_core.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_math_defines.h":
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xiosbase":
