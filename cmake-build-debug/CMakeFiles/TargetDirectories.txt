@@ -1,0 +1,3 @@
+C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug/CMakeFiles/opengl_learning.dir
+C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir

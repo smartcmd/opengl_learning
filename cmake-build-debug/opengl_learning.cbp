@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="opengl_learning"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="opengl_learning">
+				<Option output="C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug/opengl_learning.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DWIN32"/>
+					<Add option="-D_WINDOWS"/>
+					<Add directory="C:/Users/daoge_cmd/CLionProjects/opengl-learning/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 opengl_learning"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="opengl_learning/fast">
+				<Option output="C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug/opengl_learning.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DWIN32"/>
+					<Add option="-D_WINDOWS"/>
+					<Add directory="C:/Users/daoge_cmd/CLionProjects/opengl-learning/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 opengl_learning/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/daoge_cmd/CLionProjects/opengl-learning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\daoge_cmd\CLionProjects\opengl-learning\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/daoge_cmd/CLionProjects/opengl-learning/Shader.cpp">
+			<Option target="opengl_learning"/>
+		</Unit>
+		<Unit filename="C:/Users/daoge_cmd/CLionProjects/opengl-learning/Shader.h">
+			<Option target="opengl_learning"/>
+		</Unit>
+		<Unit filename="C:/Users/daoge_cmd/CLionProjects/opengl-learning/main.cpp">
+			<Option target="opengl_learning"/>
+		</Unit>
+		<Unit filename="C:/Users/daoge_cmd/CLionProjects/opengl-learning/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
